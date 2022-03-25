@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test2.0</string>
+    <string name="message">enter a message</string>
+    <string name="Enter_message">enter text below</string>
+    <string name="send_button">SEND</string>
+    <string name="arduino_string">Received Messages From Arduino:</string>
+</resources>
